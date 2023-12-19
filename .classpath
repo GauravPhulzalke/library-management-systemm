@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Library-20230129T165610Z-001/Library/src"/>
+	<classpathentry kind="output" path="Library-20230129T165610Z-001/Library/bin"/>
+</classpath>
